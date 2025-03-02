@@ -39,6 +39,16 @@ Google Play Store privacy and security guidelines through Privacy Policy creatio
     * Created peer-to-peer exchange platform enabling item swaps,
 prioritizing scalability (microservices) and user retention via push notifications.
 
+## Projects
+- Web Development & Game Design (01/2024 – Present)
+    * Constructed a responsive portfolio with HTML5/CSS3, and JavaScript ES6, integrating a custom RESTful API with documentation; optimized for SEO and WCAG 2.1 compliance.
+    * Developed Pixel Paws, an interactive browser-based game with JavaScript sprite animations, CSS keyframe animations, and Photoshop-optimized assets, achieving a cross-browser compatibility.
+    * Built Jeiberth AI Chat with Cohere.ai NLP, trained on custom datasets for 85%
+conversational accuracy, deployed on HTTPS-secured endpoints.
+
+- Eye Bank Desktop Application (09/2023 – 12/2023)
+    * Developed a financial desktop application using Visual Studio 2022, C#, ASP.NET, and SQL Server. Designed UI with WPF, providing transaction history, fund transfers, and account access.
+
 ## Skills
   - State Management Frameworks
   - Vuex, pinia
@@ -67,14 +77,4 @@ prioritizing scalability (microservices) and user retention via push notificatio
     * ILAC – International College, Toronto, ON
 - Technician Administrative Assistance
     * SENA - Servicio Nacional de Aprendizaje, Bogotá, Colombia
-  
-## Projects
-- Web Development & Game Design (01/2024 – Present)
-    * Constructed a responsive portfolio with HTML5/CSS3, and JavaScript ES6, integrating a custom RESTful API with documentation; optimized for SEO and WCAG 2.1 compliance.
-    * Developed Pixel Paws, an interactive browser-based game with JavaScript sprite animations, CSS keyframe animations, and Photoshop-optimized assets, achieving a cross-browser compatibility.
-    * Built Jeiberth AI Chat with Cohere.ai NLP, trained on custom datasets for 85%
-conversational accuracy, deployed on HTTPS-secured endpoints.
-
-- Eye Bank Desktop Application (09/2023 – 12/2023)
-    * Developed a financial desktop application using Visual Studio 2022, C#, ASP.NET, and SQL Server. Designed UI with WPF, providing transaction history, fund transfers, and account access.
 
